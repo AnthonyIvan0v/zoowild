@@ -29,6 +29,7 @@
 @import url('./layout/modal-map.css');
 @import url('./layout/modal-form.css');
 @import url('./layout/page-404.css');
+@import url('./layout/footer.css');
 
 /* components style */
 @import url('./components/marker.css');
